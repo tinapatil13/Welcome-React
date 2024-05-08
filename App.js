@@ -25,7 +25,6 @@ const parent = React.createElement("div", { id: "parent" }, [
   ]),
 ]);
 
-//JSX
 
 console.log(parent); // object
 
